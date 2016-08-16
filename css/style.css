@@ -150,7 +150,7 @@ li:focus {
 }*/
 
 #header-main .navbar-default {
-	background-color: transparent;
+/*	background-color: transparent;*/
 	border: none;
 	-webkit-transition: background-color 300ms;
 	-moz-transition: background-color 300ms;
@@ -279,7 +279,7 @@ li:focus {
 #header-main .yamm .dropdown-menu {
 	left: auto;
 	right: auto;
-	border: 1px solid #eee;
+	border: 1px solid red;
 }
 
 .white-wrapper .testimonial h3,
@@ -306,7 +306,7 @@ li:focus {
 
 #header-main .yamm .yamm-content {
 	padding: 20px;
-	border: 1px solid #eee;
+	border: 1px solid red;
 }
 
 #header-main a:hover {
@@ -320,7 +320,8 @@ li:focus {
 }
 
 #header-main .yamm img {
-	margin-bottom: 10px;
+/*	margin-bottom: 10px;*/
+       margin-top: -12px;
 }
 
 #header-main .dropdown-menu,
@@ -1178,7 +1179,7 @@ li:focus {
 #header-main .navbar-nav > li:hover > a ,
 #header-main .navbar-nav > li > a:hover {
 	background:transparent !important;
-	color: #fff!important;
+	color: red!important;
 }
 .navbar-default .navbar-nav>.open>a,
 .navbar-default .navbar-nav>.open>a:focus,
@@ -3526,7 +3527,7 @@ margin-left:85px;
 }
 
 .pattern-grey {
-  border: 1px solid #eee;
+  border: 1px solid red;
   background: #f2f2f2;
 }
 .pattern-bg1 {
@@ -3657,7 +3658,7 @@ margin-left:85px;
 }
 
 .cta-default-bdr {
-	border: 1px solid #eee;
+	border: 1px solid red;
 	background: #f2f2f2;
 	display: table;
 	width: 100%;
