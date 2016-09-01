@@ -58,8 +58,8 @@
           <button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
           <h1>Poulex sidebar Menu</h1>
 					<ul class="nav navbar-nav ">
-						<li ><a href="index.html"> Home</a> </li>
-						<li ><a href="about.html"> About</a> </li>
+						<li ><a href="index.php"> Home</a> </li>
+						<li ><a href="about.php"> About</a> </li>
 
 						<li class="dropdown active">
 								<a href="#" data-toggle="dropdown" class="dropdown-toggle">
@@ -70,8 +70,8 @@
 									<li class="dropdown-submenu">
 										<a href="#">Feeding and Drinking Systems</a>
 										<ul class="dropdown-menu">
-											<li><a href="feeding-products.html">Feeding Systems</a></li>
-											<li><a href="drinking-products.html">Drinking Systems</a></li>
+											<li><a href="feeding-products.php">Feeding Systems</a></li>
+											<li><a href="drinking-products.php">Drinking Systems</a></li>
 										</ul>
 									</li>
 									<li class="dropdown-submenu">
@@ -110,10 +110,10 @@
 								</ul>
 							</li>
 							<li><a href="#">Services</a></li>
-							<li><a href="team.html">Team</a></li>
+							<li><a href="team.php">Team</a></li>
 							<li><a href="#">Projects</a></li>
-							<li><a href="gallery.html">Gallery</a></li>
-							<li ><a href="contact.html">Contact</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li ><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -139,15 +139,15 @@
 										<span class="icon-bar"></span>
 										<span class="icon-bar"></span>
 										</button>
-										<a href="index.html" class="navbar-brand"><img src="images/basic/logo.png" width="40" alt=""/></a>
+										<a href="index.php" class="navbar-brand"><img src="images/basic/logo.png" width="40" alt=""/></a>
 									</div>
 
 
 
 									<div id="navbar-collapse-1" class="navbar-collapse collapse navbar-right">
 										<ul class="nav navbar-nav hidden-sm">
-                      <li ><a href="index.html"> Home</a> </li>
-                      <li ><a href="about.html"> About</a> </li>
+                      <li ><a href="index.php"> Home</a> </li>
+                      <li ><a href="about.php"> About</a> </li>
 
                       <li class="dropdown active">
                           <a href="#" data-toggle="dropdown" class="dropdown-toggle">
@@ -158,17 +158,13 @@
                             <li class="dropdown-submenu">
                               <a href="#">Feeding and Drinking Systems</a>
                               <ul class="dropdown-menu">
-                                <li><a href="feeding-products.html">Feeding Systems</a></li>
-                                <li><a href="drinking-products.html">Drinking Systems</a></li>
+                                <li><a href="feeding-products.php">Feeding Systems</a></li>
+                                <li><a href="drinking-products.php">Drinking Systems</a></li>
                               </ul>
                             </li>
-														<li class="dropdown-submenu">
-															<a href="#">Ventillation Systems</a>
-															<ul class="dropdown-menu">
-																<li><a href="#">1</a></li>
-																<li><a href="#">2</a></li>
-																<li><a href="#">3</a></li>
-															</ul>
+														<li >
+															<a href="ventilation-products.php">Ventillation Systems</a>
+
 														</li>
 														<li class="dropdown-submenu">
 															<a href="#">Control System</a>
@@ -198,10 +194,10 @@
 													</ul>
 												</li>
                         <li><a href="#">Services</a></li>
-												<li><a href="team.html">Team</a></li>
+												<li><a href="team.php">Team</a></li>
                         <li><a href="#">Projects</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li ><a href="contact.html">Contact</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li ><a href="contact.php">Contact</a></li>
 									  </ul>
 									</div>
 								</div>
@@ -214,7 +210,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h3><span>Product</span>Lorem ipsum dolor <br>amet iplus</h3>
+						<h3><span>Ventilation Products</span>Lorem ipsum dolor <br>amet iplus</h3>
 					</div>
 				</div>
 			</div>
@@ -224,8 +220,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="bcrumbs">
-							<li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
-							<li>Product </li>
+							<li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+							<li>Ventilation Products</li>
 						</ul>
 						<div class="clearfix"></div>
 					</div>
@@ -237,90 +233,234 @@
 	<!-- INNER CONTENT -->
 	<div class="inner-content">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-9">
-					<div id="blog-slider" class="owl-carousel owl-theme">
-						<div class="item">
-							<img src="images/projects/2/1.jpg" class="img-responsive" alt="">
-						</div>
-						<div class="item">
-							<img src="images/projects/2/2.jpg" class="img-responsive" alt="">
-						</div>
-						<div class="item">
-							<img src="images/projects/2/3.jpg"  class="img-responsive" alt="">
-						</div>
+			<section id="portfolio-section">
+				<ul class="filter no-margin-top" data-option-key="filter">
+					<li><a class="selected" href="#filter" data-option-value="*">All</a></li>
+					<li><a href="#" data-option-value=".exhaust-fans">Exhaust Fans</a></li>
+					<li><a href="#" data-option-value=".circulation-fans">Circulation Fans</a></li>
+					<li><a href="#" data-option-value=".heating">Heating</a></li>
+				    <li><a href="#" data-option-value=".cooling">Cooling</a></li>
+
+				</ul>
+				<div id="portfolio-home" class="isotope folio-boxed-4col">
+					<div class="project-item exhaust-fans">
+						<a href="products/ventilation/exhaust-fans/ews.php">
+							<div class="project-gal">
+								<img src="images/products/ventilation/exhaust_fans/ews/1.jpg" class="img-responsive" alt="">
+								<div class="overlay-folio2">
+									<div class="project-info">
+										<h2>EWS.</h2>
+										<p>Ventilation , Exhaust Fans</p>
+									</div>
+								</div>
+							</div>
+						</a>
 					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="fs-info">
-						<h3>The illustrators project</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed dui velit. Fusce pharetra leo lacinia leo rhoncus, eu consequat libero auctor. Morbi sit amet augue porta, egestas odio eget, vulputate purus. Nulla convallis porta scelerisque. Nullam at consectetur odio.</p>
-						<div class="clearfix space20"></div>
-						<ul class="project-meta">
-							<li><i class="icon-tag2"></i>Illustration | Branding </li>
-							<li><i class="icon-file2"></i><span class="project_client">Rebeccea - 2015</span></li>
-							<li><a href="http://www.themeforest.net/" target="_blank"><i class="icon-link3"></i>http://www.themeforest.net</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="clearfix space30"></div>
-			<h4 class="uppercase">Recent Projects</h4>
-			<hr>
-			<div id="portfolio-home" class="isotope gutter folio-boxed-4col">
-				<div class="project-item photography branding">
-					<a href="portfolio-single-slider.html">
-						<div class="project-gal">
-							<img src="images/projects/1.jpg" class="img-responsive" alt="">
-							<div class="overlay-folio2">
-								<div class="project-info">
-									<h2>Aliquam tincidunt risus.</h2>
-									<p>Web , Creative</p>
+
+					<div id="portfolio-home" class="isotope folio-boxed-4col">
+						<div class="project-item heating">
+							<a href="products/ventilation/heating/agriterm.php">
+								<div class="project-gal">
+									<img src="images/products/ventilation/heating/agriterm/01.jpg" class="img-responsive" alt="">
+									<div class="overlay-folio2">
+										<div class="project-info">
+											<h2>agriTERM.</h2>
+											<p>Ventilation , Heating</p>
+										</div>
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
-					</a>
-				</div>
-				<div class="project-item illustration web-design illustration">
-					<a href="portfolio-single-slider.html">
-						<div class="project-gal">
-							<img src="images/projects/2.jpg" class="img-responsive" alt="">
-							<div class="overlay-folio2">
-								<div class="project-info">
-									<h2>Vestibulum auctor</h2>
-									<p>Image Gallery</p>
+
+							<div id="portfolio-home" class="isotope folio-boxed-4col">
+								<div class="project-item heating">
+									<a href="products/ventilation/heating/easyterm.php">
+										<div class="project-gal">
+											<img src="images/products/ventilation/heating/easyterm/01.jpg" class="img-responsive" alt="">
+											<div class="overlay-folio2">
+												<div class="project-info">
+													<h2>easyTERM.</h2>
+													<p>Ventilation , Heating</p>
+												</div>
+											</div>
+										</div>
+									</a>
 								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="project-item illustration print">
-					<a href="portfolio-single-slider.html">
-						<div class="project-gal">
-							<img src="images/projects/3.jpg" class="img-responsive" alt="">
-							<div class="overlay-folio2">
-								<div class="project-info">
-									<h2>Vestibulum auctor</h2>
-									<p>Image Gallery</p>
+								<div id="portfolio-home" class="isotope folio-boxed-4col">
+									<div class="project-item heating">
+										<a href="products/ventilation/heating/fotb.php">
+											<div class="project-gal">
+												<img src="images/products/ventilation/heating/fotb/01.jpg" class="img-responsive" alt="">
+												<div class="overlay-folio2">
+													<div class="project-info">
+														<h2>F-OTB.</h2>
+														<p>Ventilation , Heating</p>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+
+          <div id="portfolio-home" class="isotope folio-boxed-4col">
+            <div class="project-item exhaust-fans">
+              <a href="products/ventilation/exhaust-fans/ewd.php">
+                <div class="project-gal">
+                  <img src="images/products/ventilation/exhaust_fans/ewd/1.jpg" class="img-responsive" alt="">
+                  <div class="overlay-folio2">
+                    <div class="project-info">
+                      <h2>EWD.</h2>
+                      <p>Ventilation , Exhaust Fans</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+                    </div>
+             <div id="portfolio-home" class="isotope folio-boxed-4col">
+        					<div class="project-item exhaust-fans">
+        						<a href="products/ventilation/exhaust-fans/eos.php">
+        							<div class="project-gal">
+        								<img src="images/products/ventilation/exhaust_fans/eos/1.jpg" class="img-responsive" alt="">
+        								<div class="overlay-folio2">
+        									<div class="project-info">
+        										<h2>EOS.</h2>
+        										<p>Ventilation , Exhaust Fans</p>
+        									</div>
+        								</div>
+        							</div>
+        						</a>
+        					</div>
+              </div>
+
+							<div id="portfolio-home" class="isotope folio-boxed-4col">
+								<div class="project-item heating">
+									<a href="products/ventilation/heating/combiterm.php">
+										<div class="project-gal">
+											<img src="images/products/ventilation/heating/combiterm/01.jpg" class="img-responsive" alt="">
+											<div class="overlay-folio2">
+												<div class="project-info">
+													<h2>combiTERM.</h2>
+													<p>Ventilation , Heating</p>
+												</div>
+											</div>
+										</div>
+									</a>
 								</div>
-							</div>
-						</div>
-					</a>
+
+             <div id="portfolio-home" class="isotope folio-boxed-4col">
+    					<div class="project-item exhaust-fans">
+    						<a href="products/ventilation/exhaust-fans/eoc.php">
+    							<div class="project-gal">
+    								<img src="images/products/ventilation/exhaust_fans/eoc/1.jpg" class="img-responsive" alt="">
+    								<div class="overlay-folio2">
+    									<div class="project-info">
+    										<h2>EOC.</h2>
+    										<p>Ventilation , Exhaust Fans</p>
+    									</div>
+    								</div>
+    							</div>
+    						</a>
+    					</div>
+                 </div>
+
+            <div id="portfolio-home" class="isotope folio-boxed-4col">
+    					<div class="project-item circulation-fans">
+    						<a href="products/ventilation/circulation-fans/acf.php">
+    							<div class="project-gal">
+    								<img src="images/products/ventilation/circulation_fans/acf/1.jpg" class="img-responsive" alt="">
+    								<div class="overlay-folio2">
+    									<div class="project-info">
+    										<h2>ACF.</h2>
+    										<p>Ventilation, Circulation Fans</p>
+    									</div>
+    								</div>
+    							</div>
+    						</a>
+    					</div>
+                 </div>
+
+
+              <div id="portfolio-home" class="isotope folio-boxed-4col">
+      					<div class="project-item circulation-fans">
+      						<a href="products/ventilation/circulation-fans/adf.php">
+      							<div class="project-gal">
+      								<img src="images/products/ventilation/circulation_fans/adf/1.jpg" class="img-responsive" alt="">
+      								<div class="overlay-folio2">
+      									<div class="project-info">
+      										<h2>ADF.</h2>
+      										<p>Ventilation, Circulation Fans</p>
+      									</div>
+      								</div>
+      							</div>
+      						</a>
+      					</div>
+                </div>
+
+                <div id="portfolio-home" class="isotope folio-boxed-4col">
+        					<div class="project-item circulation-fans">
+        						<a href="products/ventilation/circulation-fans/bkf.php">
+        							<div class="project-gal">
+        								<img src="images/products/ventilation/circulation_fans/bkf/1.jpg" class="img-responsive" alt="">
+        								<div class="overlay-folio2">
+        									<div class="project-info">
+        										<h2>BKF.</h2>
+        										<p>Ventilation, Circulation Fans</p>
+        									</div>
+        								</div>
+        							</div>
+        						</a>
+        					</div>
+                         <div id="portfolio-home" class="isotope folio-boxed-4col">
+              					<div class="project-item circulation-fans">
+              						<a href="products/ventilation/circulation-fans/eor.php">
+              							<div class="project-gal">
+              								<img src="images/products/ventilation/circulation_fans/eor/1.jpg" class="img-responsive" alt="">
+              								<div class="overlay-folio2">
+              									<div class="project-info">
+              										<h2>EOR.</h2>
+              										<p>Ventilation, Circulation Fans</p>
+              									</div>
+              								</div>
+              							</div>
+              						</a>
+              					</div>
+
 				</div>
-				<div class="project-item photography web-design">
-					<a href="portfolio-single-slider.html">
-						<div class="project-gal">
-							<img src="images/projects/4.jpg" class="img-responsive" alt="">
-							<div class="overlay-folio2">
-								<div class="project-info">
-									<h2>Vestibulum auctor</h2>
-									<p>Image Gallery</p>
-								</div>
-							</div>
-						</div>
-					</a>
+
+                  <div id="portfolio-home" class="isotope folio-boxed-4col">
+          					<div class="project-item circulation-fans">
+          						<a href="products/ventilation/circulation-fans/erd.php">
+          							<div class="project-gal">
+          								<img src="images/products/ventilation/circulation_fans/erd/1.jpg" class="img-responsive" alt="">
+          								<div class="overlay-folio2">
+          									<div class="project-info">
+          										<h2>ERD.</h2>
+          										<p>Ventilation, Circulation Fans</p>
+          									</div>
+          								</div>
+          							</div>
+          						</a>
+          					</div>
+
+                       <div id="portfolio-home" class="isotope folio-boxed-4col">
+              					<div class="project-item comm-layers">
+              						<a href="products/feeding/commercial-layers/bridolay.php">
+              							<div class="project-gal">
+              								<img src="images/products/feeding/commercial_layers/bridolay/1.jpg" class="img-responsive" alt="">
+              								<div class="overlay-folio2">
+              									<div class="project-info">
+              										<h2>BRIDOlay.</h2>
+              										<p>Feeding , Commerical Layers</p>
+              									</div>
+              								</div>
+              							</div>
+              						</a>
+              					</div>
+
 				</div>
-			</div>
+
+
+			</section>
 		</div>
 	</div>
   <!-- FOOTER -->
@@ -329,9 +469,9 @@
       <div class="row">
         <div class="col-md-4 margin-bottom-xs-30">
           <h4 class="space30">About us</h4>
-          <img src="images/basic/logo-ico.png" class="img-responsive space20" width="262" alt=""/>
+          <img src="images/basic/logo.png" class="img-responsive space20" width="262" alt=""/>
           <p> Poulex has been one of the leading companies in Egypt and the middle east in the supply of turn-key projects for poultry and livestock, providing the latest technologies and concepts. </p>
-          
+
         </div>
 
         <div class="col-md-4 margin-bottom-xs-30">
@@ -352,7 +492,7 @@
         <div class="col-md-4 margin-bottom-xs-30">
           <h4 class="space30">News</h4>
           <p> Poulex has been one of the leading companies in Egypt and the middle east in the supply of turn-key projects for poultry and livestock, providing the latest technologies and concepts. </p>
-          
+
         </div>
 
       </div>

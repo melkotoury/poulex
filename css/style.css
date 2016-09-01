@@ -236,8 +236,8 @@ li:focus {
 
 
 #header-main .navbar-brand img {
-    width: 100px;
-    /*height: 24px;*/
+  width: 156px;
+    height: auto;
 }
 
 #header-main .navbar {
