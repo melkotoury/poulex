@@ -2,191 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee0f01a-a7af-4afa-97e7-7748684b107a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/basic/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/partners/New poulex logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/sparkup/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/sparkup/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/sparkup/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/sparkup/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/swiiflo/1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/swiiflo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/swiiflo/3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/drinking/swiiflo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/kixoo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/kixoo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/kixoo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/kixoo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/vitoo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/vitoo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/vitoo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/broilers_breeders/vitoo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/bridolay/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/bridolay/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/bridolay/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/laica/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/laica/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/laica/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/laica/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/poolai/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/poolai/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/poolai/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/feeding/commercial_layers/poolai/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/haiKoo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/one/feeding/broilers_breeders/boozzter/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers_breeders/boozzter/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/slider/feeding/broilers_breeders/boozzter/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/acf/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/acf/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/acf/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/acf/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/adf/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/adf/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/adf/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/adf/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/bkf/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/bkf/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/bkf/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/bkf/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/eor/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/eor/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/eor/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/eor/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/erd/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/erd/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/circulation_fans/erd/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eoc/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eoc/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eoc/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eoc/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eos/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eos/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eos/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/eos/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ewd/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ewd/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ewd/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ewd/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ews/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ews/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ews/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/exhaust_fans/ews/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/agriterm/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/agriterm/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/agriterm/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/agriterm/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/combiterm/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/combiterm/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/combiterm/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/combiterm/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/easyterm/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/easyterm/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/easyterm/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/easyterm/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/fotb/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/fotb/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/fotb/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/ventilation/heating/fotb/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/01.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/02.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/03.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/04.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/code-comments.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_Skeletons.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Skeletons.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/poulex.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/drinking/sparkcup/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/drinking/sparkcup/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/drinking/swiiflo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/drinking/swiiflo/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/bridolay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/bridolay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/laiCa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/laiCa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/poolai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/feeding/commercial-layers/poolai.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/adf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/adf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/bkf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/bkf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/eor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/eor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/erd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/erd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/cooling/mdfx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/cooling/mf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/cooling/pericool.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/cooling/pericooler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/eoc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/eoc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/eos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/eos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/ewd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/ewd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/ews.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/exhaust-fans/ews.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/heating/agriterm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/heating/combiterm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/heating/easyterm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/ventilation/heating/fotb.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/cookies.txt" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/cookies.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/about.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/careers.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/careers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/animated-overlay.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/animated-overlay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/before.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/before.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_flat_0_aaaaaa_40x100.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_flat_0_aaaaaa_40x100.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_glass_55_fbf9ee_1x400.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_glass_55_fbf9ee_1x400.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_glass_95_fef1ec_1x400.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-bg_glass_95_fef1ec_1x400.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_222222_256x240.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_222222_256x240.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_2e83ff_256x240.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_2e83ff_256x240.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_454545_256x240.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_454545_256x240.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_888888_256x240.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_888888_256x240.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_cd0a0a_256x240.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/images/ui-icons_cd0a0a_256x240.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/js/isotope/isotope.pkgd.js" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/js/isotope/isotope.pkgd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/js/jquery.appear.js" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/js/jquery.appear.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/single-product.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/single-product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/single-project.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/single-project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/videos/home.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/videos/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/videos/huppa.html" afterPath="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/www.ckthemes.com/html/maxima/maxima/videos/huppa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/animated-overlay.html" afterPath="$PROJECT_DIR$/images/animated-overlay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/before.html" afterPath="$PROJECT_DIR$/images/before.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/isotope/isotope.pkgd.js" afterPath="$PROJECT_DIR$/js/isotope/isotope.pkgd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.appear.js" afterPath="$PROJECT_DIR$/js/jquery.appear.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/home.html" afterPath="$PROJECT_DIR$/videos/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/huppa.html" afterPath="$PROJECT_DIR$/videos/huppa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ventilation-products.php" afterPath="$PROJECT_DIR$/ventilation-products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lighting_products.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/comeo/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/haiKoo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers/minimax/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/one/feeding/broilers_breeders/boozzter/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/comeo/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/haiKoo/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers/minimax/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers_breeders/boozzter/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/products/slider/feeding/broilers_breeders/boozzter/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/drinking/sparkcup/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/drinking/swiiflo/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/feeding/commercial-layers/bridolay.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/feeding/commercial-layers/laiCa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/feeding/commercial-layers/poolai.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/portfolio-single-slider - Copy (5).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/adf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/bkf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/eor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/erd.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ta3deel.docx" afterPath="$PROJECT_DIR$/ta3deel.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drinking-products.html" afterPath="$PROJECT_DIR$/drinking-products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.html" afterPath="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/ventilation/cooling/mf.html" afterPath="$PROJECT_DIR$/products/ventilation/cooling/mf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/ventilation/cooling/pericool.html" afterPath="$PROJECT_DIR$/products/ventilation/cooling/pericool.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/ventilation/cooling/pericooler.html" afterPath="$PROJECT_DIR$/products/ventilation/cooling/pericooler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ventilation-products.html" afterPath="$PROJECT_DIR$/ventilation-products.html" />
     </list>
     <ignored path="poulex.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,97 +72,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/lighting/hwdk/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="244" column="84" selection-start-line="244" selection-start-column="84" selection-end-line="244" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/lighting/ninox/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="269" column="36" selection-start-line="269" selection-start-column="36" selection-end-line="269" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/lighting/otus/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="244" column="59" selection-start-line="244" selection-start-column="59" selection-end-line="244" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/lighting/pulsa/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lighting_products.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lighting_products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="387" column="70" selection-start-line="387" selection-start-column="70" selection-end-line="387" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="288" column="84" selection-start-line="288" selection-start-column="84" selection-end-line="288" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drinking-products.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drinking-products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="176" column="57" selection-start-line="176" selection-start-column="57" selection-end-line="176" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ventilation-products.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ventilation-products.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="396" column="54" selection-start-line="396" selection-start-column="54" selection-end-line="396" selection-end-column="54" />
+            <state relative-caret-position="134">
+              <caret line="163" column="60" selection-start-line="163" selection-start-column="60" selection-end-line="163" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agriterm.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/heating/agriterm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="204" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mdfx.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/mdfx.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="242" column="81" selection-start-line="242" selection-start-column="81" selection-end-line="242" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mf.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/mf.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/lighting/surnia/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pericool.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/pericool.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pericooler.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/pericooler.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="combiterm.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/heating/combiterm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fotb.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/heating/fotb.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="209" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="209" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easyterm.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/ventilation/heating/easyterm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="209" column="18" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
+              <caret line="403" column="0" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -324,16 +196,26 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/header.php" />
         <option value="$PROJECT_DIR$/ventilation-products.php" />
-        <option value="$PROJECT_DIR$/ventilation-products.html" />
         <option value="$PROJECT_DIR$/Maxima - Free Bootstrap Business HTML Template/maxima/cookies.txt" />
         <option value="$PROJECT_DIR$/products/ventilation/heating/easyterm.html" />
         <option value="$PROJECT_DIR$/products/ventilation/heating/fotb.html" />
         <option value="$PROJECT_DIR$/products/ventilation/heating/agriterm.html" />
         <option value="$PROJECT_DIR$/products/ventilation/heating/combiterm.html" />
-        <option value="$PROJECT_DIR$/products/ventilation/cooling/mf.html" />
-        <option value="$PROJECT_DIR$/products/ventilation/cooling/pericool.html" />
-        <option value="$PROJECT_DIR$/products/ventilation/cooling/pericooler.html" />
         <option value="$PROJECT_DIR$/products/ventilation/cooling/mdfx.html" />
+        <option value="$PROJECT_DIR$/products/ventilation/cooling/pericooler.html" />
+        <option value="$PROJECT_DIR$/products/ventilation/cooling/pericool.html" />
+        <option value="$PROJECT_DIR$/products/ventilation/cooling/mf.html" />
+        <option value="$PROJECT_DIR$/products/ventilation/circulation-fans/acf.html" />
+        <option value="$PROJECT_DIR$/products/lighting/bubo/index.html" />
+        <option value="$PROJECT_DIR$/products/lighting/surnia/index.html" />
+        <option value="$PROJECT_DIR$/products/lighting/hwdk/index.html" />
+        <option value="$PROJECT_DIR$/products/lighting/ninox/index.html" />
+        <option value="$PROJECT_DIR$/products/lighting/otus/index.html" />
+        <option value="$PROJECT_DIR$/products/lighting/pulsa/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/lighting_products.html" />
+        <option value="$PROJECT_DIR$/ventilation-products.html" />
+        <option value="$PROJECT_DIR$/drinking-products.html" />
       </list>
     </option>
   </component>
@@ -343,10 +225,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -420,130 +305,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ventilation" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="heating" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ventilation" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ventilation" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cooling" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feeding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feeding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="broilers-breeders" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feeding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="broilers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="drinking" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -574,20 +335,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="poulex" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -597,6 +344,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -651,6 +399,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bee0f01a-a7af-4afa-97e7-7748684b107a" name="Default" comment="" />
@@ -658,7 +409,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1472726933213</updated>
-      <workItem from="1472726935085" duration="6254000" />
+      <workItem from="1472726935085" duration="14043000" />
     </task>
     <task id="LOCAL-00001" summary="added some data">
       <created>1472732178369</created>
@@ -671,19 +422,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6254000" />
+    <option name="totallyTimeSpent" value="14043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.051395006" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20190896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="The R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -815,14 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/drinking/sparkcup/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -835,14 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1441">
           <caret line="160" column="47" selection-start-line="160" selection-start-column="47" selection-end-line="160" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -883,14 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ventilation-products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="396" column="54" selection-start-line="396" selection-start-column="54" selection-end-line="396" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -959,39 +686,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/mf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/products/ventilation/cooling/mdfx/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/pericool.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
+        <state relative-caret-position="-92">
+          <caret line="252" column="46" selection-start-line="252" selection-start-column="46" selection-end-line="252" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/pericooler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="456" column="0" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/products/ventilation/cooling/mdfx/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/mf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="253" column="99" selection-start-line="253" selection-start-column="99" selection-end-line="253" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/drinking/sparkcup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/drinking/sparkcup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/feeding/commercial-layers/bridolay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/ventilation/circulation-fans/acf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="193" column="28" selection-start-line="193" selection-start-column="28" selection-end-line="193" selection-end-column="28" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/ventilation/cooling/mdfx.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="242" column="81" selection-start-line="242" selection-start-column="81" selection-end-line="242" selection-end-column="81" />
+        <state relative-caret-position="272">
+          <caret line="260" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/bubo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="262" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/surnia/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="403" column="0" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/hwdk/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="244" column="84" selection-start-line="244" selection-start-column="84" selection-end-line="244" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/ninox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="269" column="36" selection-start-line="269" selection-start-column="36" selection-end-line="269" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/otus/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="244" column="59" selection-start-line="244" selection-start-column="59" selection-end-line="244" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/lighting/pulsa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="87" column="41" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="288" column="84" selection-start-line="288" selection-start-column="84" selection-end-line="288" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lighting_products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="387" column="70" selection-start-line="387" selection-start-column="70" selection-end-line="387" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ventilation-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="163" column="60" selection-start-line="163" selection-start-column="60" selection-end-line="163" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drinking-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="176" column="57" selection-start-line="176" selection-start-column="57" selection-end-line="176" selection-end-column="57" />
           <folding />
         </state>
       </provider>
