@@ -9,7 +9,7 @@
         $('#preloader').delay(200).fadeOut('slow');
     }());
 
-
+    $('#webTicker').webTicker();
 
     // sticky menu
     $(window).scroll(function() {

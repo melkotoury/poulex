@@ -314,6 +314,10 @@ h2.post-title-small a:hover {
 }
 
 .nav-tabs li i {
+	 color: #ff0104;
+ }
+
+.nav-tabs li .active i {
 	color: #363636;
 }
 
