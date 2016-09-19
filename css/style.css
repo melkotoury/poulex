@@ -1979,7 +1979,7 @@ li:focus {
 }
 
 .page_header_parallax {
-	background: #000 url(../images/bg/p_header.jpg) no-repeat fixed center;
+	background: #000 url(../images/pattern/pattern9.png) no-repeat fixed center;
 	background-size: cover;
 	padding: 145px 0 80px;
 }
@@ -4450,13 +4450,13 @@ h2.title {
 	transform: rotate(-15deg);
 }
 
-#team2 .col-md-3:hover .team-inner ,
+#team2 .col-md-4:hover .team-inner ,
 #home-team .item:hover .team-inner {
 	bottom: 0%;
 	transition: .5s;
 }
 
-#team2 .col-md-3:hover .team-inner .team-social li a ,
+#team2 .col-md-4:hover .team-inner .team-social li a ,
 #home-team .item:hover .team-inner .team-social li a {
 	bottom: 0%;
 	transition: .5s;
@@ -4606,6 +4606,7 @@ h2.title {
 .staff-img {
 	position: relative;
 	overflow: hidden;
+	height: 386px;
 }
 
 .pricing-table4 {
@@ -8398,3 +8399,40 @@ background: #ff0104;
 ul.tld_list .number {
 	background:#ff0104;
 }
+
+
+
+
+/*
+Project page
+*/
+.wrapper {
+    background-color: #339966
+}
+
+.project-h4 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #FFF;
+}
+
+.wrapper1 {
+
+    background-color: #fe3e3e;
+}
+
+.col-md-1 {
+    color: #339966;
+    padding-top: 12.5px;
+}
+
+.well {
+    border-color:#d2d2d2;
+    box-shadow:0 1px 0 #cfcfcf;
+    border-radius:3px;
+}
+
+/*
+End Project Page
+*/
